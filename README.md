@@ -1,11 +1,11 @@
 MEMBRES DU GROUPE: 
 CELAIRE OKA ET MOUHDA CHAIMAE
 
-## Application de Gestion de Tâches
+# Application de Gestion de Tâches
 
 https://github.com/celaireo/Android_TaskManager_project.git
 
-# Résumé 
+## Résumé 
 Le but est de développer une application Android simple mais efficace pour gérer des tâches :
 - En créeant une activité principale, 
 - En utilisant un RecyclerView pour afficher une liste de tâches, 
@@ -13,7 +13,7 @@ Le but est de développer une application Android simple mais efficace pour gér
 - En partageant des tâches avec d’autres applications. 
 Nous allons aussi corriger les bugs potentiels et ajouter des fonctionnalités pour améliorer l’expérience utilisateur.
 
-# Les étapes :
+## Les étapes :
 Création d’une nouvelle activité pour afficher les tâches
 Ajout d’une interface pour la liste des tâches
 Création d’un adaptateur pour RecyclerView
